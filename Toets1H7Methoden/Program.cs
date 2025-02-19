@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+            //VEEL SUCCES! 
+
             //declareren variabelen
             int aantalKarakters, pincode; 
             
